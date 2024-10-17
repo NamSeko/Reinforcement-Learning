@@ -1,1 +1,3 @@
-# Tic-Tac-Toe-with-DynamicProgramming
+# Reinforcement Learning
+
+## TicTacToe game
